@@ -3,6 +3,8 @@
 Hi, I’m Skip 👋 — a Developer Relations and Technical Marketing leader with 15+ years across AI, SaaS, and developer tools.  
 I specialize in explaining complex systems clearly, creating content that drives adoption, and engaging developer audiences through talks, demos, and storytelling.
 
+
+# 2025
 ---
 
 ## 🎥 Live Talks & Webinars
@@ -49,7 +51,7 @@ GitHub repository for automated head-to-head model testing with Elo-style scorin
 
 ---
 
-## 🧠 About Me
+# 🧠 About Me
 
 I’m passionate about bridging technical depth and clear communication — helping developers and decision-makers alike understand what’s possible with AI-powered tools.  
 Previously led DevRel at **Kolena**, **Clarifai**, and **Vaticle (TypeDB)**; earlier roles at **Segment**, **Stanford**, and **Google**.
@@ -58,4 +60,4 @@ Previously led DevRel at **Kolena**, **Clarifai**, and **Vaticle (TypeDB)**; ear
 
 ---
 
-_This portfolio is a curated subset of my public work. More samples available upon request._
+_This portfolio is a curated subset of my most recent public work. More samples available upon request._
