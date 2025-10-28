@@ -4,7 +4,7 @@ Hi, I’m Skip 👋 — a Developer Relations and Technical Marketing leader wit
 I specialize in explaining complex systems clearly, creating content that drives adoption, and engaging developer audiences through talks, demos, and storytelling.
 
 
-# 2025
+# 2025 Content
 ---
 
 ## 🎥 Live Talks & Webinars
