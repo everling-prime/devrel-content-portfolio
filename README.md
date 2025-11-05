@@ -45,9 +45,15 @@ Technical tutorial introducing Kolena’s open-source evaluation toolkit for LLM
 Hands-on live coding demo using Arcade.dev to automate document generation with AI agents.  
 🎬 [Watch here](https://www.loom.com/share/11c6278aa8a843f09f3ff2fbd4657e55?sid=c5110753-03e9-4f14-bee3-aec632c25e67)
 
-**Kolena AutoArena (Open Source)**  
-GitHub repository for automated head-to-head model testing with Elo-style scoring.  
-💻 [View repo](https://github.com/kolenaIO/autoarena)
+**PromptEvolver — _Open-Source Reasoning Model Playground_**  
+A prototype developer productivity app for exploring prompt refinement workflows using reasoning-optimized open models.  
+Built with Promptfoo, Ollama, and Python `uv`, it demonstrates how lightweight reasoning loops can evolve prompts for accuracy and creativity.  
+💻 [View repo](https://github.com/everling-prime/promptevolver)
+
+**ProseAI — _Early Prototype for Intelligent Writing Assistance_**  
+A browser-based NLP text editor (2017) that provided real-time writing feedback by combining APIs, spaCy, and DBpedia enrichment.  
+Conceptually a precursor to today’s AI code and text completion tools, built years before generative models were mainstream.  
+💻 [View repo](https://github.com/everling-prime/prose-ai)
 
 ---
 
