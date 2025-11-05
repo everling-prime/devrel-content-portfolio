@@ -25,17 +25,17 @@ Moderated discussion featuring Paravision, AssemblyAI, and Enabled Intelligence 
 
 ## ✍️ Technical Writing
 
-**Kolena Blog — _Getting Started with AutoArena: Automated Model Testing with Head-to-Head Evaluation_**  
+**ReadMe — _How to Use OpenAPI and Swagger Spec for Documentation_**  
+A long-form developer guide written for ReadMe’s API documentation platform, showing how teams can use OpenAPI specs to auto-generate great developer experiences.  
+📖 [Read here](https://readme.com/resources/how-to-use-openapi-and-swagger-spec-for-documentation)
+
+**Clarifai — Author Page (Articles on AI, Computer Vision, and API How-Tos)**  
+Collection of tutorials, product explainers, and technical deep dives covering machine learning workflows, model deployment, and Clarifai’s API ecosystem.  
+📖 [Browse articles](https://www.clarifai.com/blog/author/skip-everling)
+
+**Kolena — _Getting Started with AutoArena: Automated Model Testing with Head-to-Head Evaluation_**  
 Technical tutorial introducing Kolena’s open-source evaluation toolkit for LLMs and ML models.  
 📖 [Read here](https://www.kolena.com/blog/getting-started-with-autoarena-automated-model-testing-with-head-to-head-evaluation)
-
-**Kolena Blog — _How Head-to-Head Evaluations and Elo Scoring Power AutoArena’s Accurate and Trustworthy AI Model Testing_**  
-Follow-up post that deepens the statistical and evaluation methodology behind AutoArena.  
-📖 [Read here](https://www.kolena.com/blog/how-head-to-head-evaluations-and-elo-scoring-power-autoarenas-accurate-and-trustworthy-ai-model-testing)
-
-**Kolena Case Study — _Revolutionizing Radiology with AI-Powered Quality Evaluation_**  
-Customer success story demonstrating measurable outcomes from model-quality evaluation in healthcare.  
-📖 [Read here](https://www.kolena.com/blog/revolutionizing-radiology-a-case-study/)
 
 ---
 
