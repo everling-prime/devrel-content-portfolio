@@ -1,7 +1,6 @@
 # Skip Everling – Developer Relations Portfolio
 
-Hi, I’m Skip 👋 — a Developer Relations and Technical Marketing leader with 15+ years across AI, SaaS, and developer tools.  
-I specialize in explaining complex systems clearly, creating content that drives adoption, and engaging developer audiences through talks, demos, and storytelling.
+Hi, I’m Skip 👋 — a Developer Relations and Technical Marketing leader with 15+ years across AI, SaaS, and developer tools. I specialize in explaining complex systems, creating content that drives adoption, and engaging developer audiences through talks, demos, and storytelling.
 
 
 # 2025 Content
